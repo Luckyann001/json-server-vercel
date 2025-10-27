@@ -1,49 +1,46 @@
 {
-  "subjects": [
+  "students": [
     {
       "id": 1,
-      "category": "Web Development",
-      "name": "React & TypeScript",
-      "description": "Master React with TypeScript for modern apps",
-      "hoursDone": 26,
-      "totalHours": 40,
-      "status": "In Progress"
+      "name": "Amina Wanjiku",
+      "subject": "Mathematics",
+      "progress": 85,
+      "hours": 18
     },
     {
       "id": 2,
-      "category": "Language",
-      "name": "Spanish Language",
-      "description": "Learn conversational Spanish for communication",
-      "hoursDone": 30,
-      "totalHours": 100,
-      "status": "In Progress"
+      "name": "Brian Otieno",
+      "subject": "Science",
+      "progress": 60,
+      "hours": 12
     },
     {
       "id": 3,
-      "category": "Programming",
-      "name": "JavaScript Mastery",
-      "description": "Deep dive into modern JavaScript",
-      "hoursDone": 50,
-      "totalHours": 50,
-      "status": "Completed"
+      "name": "Cynthia Njeri",
+      "subject": "History",
+      "progress": 70,
+      "hours": 15
     },
     {
       "id": 4,
-      "category": "Design",
-      "name": "Graphic Design Basics",
-      "description": "Figma, Canva and branding fundamentals",
-      "hoursDone": 18,
-      "totalHours": 60,
-      "status": "In Progress"
+      "name": "Daniel Mwangi",
+      "subject": "English",
+      "progress": 50,
+      "hours": 9
     },
     {
       "id": 5,
-      "category": "Data Analysis",
-      "name": "Excel & Power BI",
-      "description": "Visualize data and build dashboards",
-      "hoursDone": 40,
-      "totalHours": 40,
-      "status": "Completed"
+      "name": "Emily Achieng",
+      "subject": "Computer Studies",
+      "progress": 95,
+      "hours": 22
+    },
+    {
+      "id": 6,
+      "name": "Faith Mutua",
+      "subject": "Geography",
+      "progress": 77,
+      "hours": 14
     }
   ]
 }
