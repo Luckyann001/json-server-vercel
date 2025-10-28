@@ -1,46 +1,19 @@
 {
-  "students": [
-    {
-      "id": 1,
-      "name": "Amina Wanjiku",
-      "subject": "Mathematics",
-      "progress": 85,
-      "hours": 18
-    },
-    {
-      "id": 2,
-      "name": "Brian Otieno",
-      "subject": "Science",
-      "progress": 60,
-      "hours": 12
-    },
-    {
-      "id": 3,
-      "name": "Cynthia Njeri",
-      "subject": "History",
-      "progress": 70,
-      "hours": 15
-    },
-    {
-      "id": 4,
-      "name": "Daniel Mwangi",
-      "subject": "English",
-      "progress": 50,
-      "hours": 9
-    },
-    {
-      "id": 5,
-      "name": "Emily Achieng",
-      "subject": "Computer Studies",
-      "progress": 95,
-      "hours": 22
-    },
-    {
-      "id": 6,
-      "name": "Faith Mutua",
-      "subject": "Geography",
-      "progress": 77,
-      "hours": 14
-    }
+  "subjects": [
+    { "id": 1, "name": "Mathematics", "progress": 85 },
+    { "id": 2, "name": "English", "progress": 90 },
+    { "id": 3, "name": "Physics", "progress": 70 },
+    { "id": 4, "name": "Chemistry", "progress": 65 },
+    { "id": 5, "name": "Biology", "progress": 55 },
+    { "id": 6, "name": "History", "progress": 45 },
+    { "id": 7, "name": "Geography", "progress": 60 },
+    { "id": 8, "name": "Computer Studies", "progress": 95 },
+    { "id": 9, "name": "Business Studies", "progress": 80 },
+    { "id": 10, "name": "Art & Design", "progress": 50 },
+    { "id": 11, "name": "Music", "progress": 40 },
+    { "id": 12, "name": "Physical Education", "progress": 75 },
+    { "id": 13, "name": "Literature", "progress": 68 },
+    { "id": 14, "name": "Civic Education", "progress": 73 },
+    { "id": 15, "name": "Agriculture", "progress": 58 }
   ]
 }
