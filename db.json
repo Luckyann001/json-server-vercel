@@ -1,19 +1,39 @@
 {
   "subjects": [
-    { "id": 1, "name": "Mathematics", "progress": 85 },
-    { "id": 2, "name": "English", "progress": 90 },
-    { "id": 3, "name": "Physics", "progress": 70 },
-    { "id": 4, "name": "Chemistry", "progress": 65 },
-    { "id": 5, "name": "Biology", "progress": 55 },
-    { "id": 6, "name": "History", "progress": 45 },
-    { "id": 7, "name": "Geography", "progress": 60 },
-    { "id": 8, "name": "Computer Studies", "progress": 95 },
-    { "id": 9, "name": "Business Studies", "progress": 80 },
-    { "id": 10, "name": "Art & Design", "progress": 50 },
-    { "id": 11, "name": "Music", "progress": 40 },
-    { "id": 12, "name": "Physical Education", "progress": 75 },
-    { "id": 13, "name": "Literature", "progress": 68 },
-    { "id": 14, "name": "Civic Education", "progress": 73 },
-    { "id": 15, "name": "Agriculture", "progress": 58 }
+    {
+      "id": 1,
+      "name": "Mathematics",
+      "goal": "Master algebra and calculus fundamentals.",
+      "progress": 80,
+      "image": "https://images.unsplash.com/photo-1509223197845-458d87318791?auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 2,
+      "name": "Science",
+      "goal": "Understand key physics and chemistry concepts.",
+      "progress": 65,
+      "image": "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 3,
+      "name": "History",
+      "goal": "Learn major world events and their impacts.",
+      "progress": 40,
+      "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 4,
+      "name": "Programming",
+      "goal": "Build projects using React and JavaScript.",
+      "progress": 90,
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 5,
+      "name": "Art & Design",
+      "goal": "Explore digital drawing and color theory.",
+      "progress": 55,
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=800&q=60"
+    }
   ]
 }
